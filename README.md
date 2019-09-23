@@ -8,7 +8,8 @@ Pathogen_VOC_Dataset_v4.txt
 KNN implemetation :- FST.cpp, FST.h
 Main C++ File :- Source.cpp
 
-*Distance metrics
+## Distance metrics
+
 0. Manhattan
 1. Euclidean
 2. Chebyshev
@@ -17,8 +18,10 @@ Main C++ File :- Source.cpp
 5. Canberra
 6. Cosine
 
-*Weight
+## Weight
+
 0. Uniform
+
 1. Weighted
 
 *Feature Selection
@@ -27,7 +30,7 @@ Main C++ File :- Source.cpp
 
 2.SequentialFeatureSelection
 
-*Validation
+## Validation
 
 LeaveOneOutClassification
 
