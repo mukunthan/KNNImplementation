@@ -1,4 +1,0 @@
-
-____________________________________________________________________________
-Backward Feature Elimination Selection has started with metric : Manhattan and K=1 and weighted=1,on (Mon Sep 23 10:46:26 2019
-
