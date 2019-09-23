@@ -1,10 +1,10 @@
 # KNNImplementation
 KNN Implementation with different distance metrics and Backward feature elimination(BFE) method in C++
 
-#Input
+# Input
 Pathogen_VOC_Dataset_v4.txt
 
-#Source Files
+# Source Files
 KNN implemetation :- FST.cpp, FST.h
 Main C++ File :- Source.cpp
 
@@ -22,7 +22,9 @@ Main C++ File :- Source.cpp
 1. Weighted
 
 *Feature Selection
+
 1.BackwardFeatureElimination
+
 2.SequentialFeatureSelection
 
 *Validation
@@ -30,11 +32,13 @@ Main C++ File :- Source.cpp
 LeaveOneOutClassification
 
 
-#Output
+# Output
+
 Results_(distancemetricsNo)(WeightNo).txt
 
 
-#Citation
+# Citation
+
 Please cite the below paper if you use this code in your work:
 
 
