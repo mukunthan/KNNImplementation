@@ -5,7 +5,9 @@ KNN Implementation with different distance metrics and Backward feature eliminat
 Pathogen_VOC_Dataset_v4.txt
 
 # Source Files
+
 KNN implemetation :- FST.cpp, FST.h
+
 Main C++ File :- Source.cpp
 
 ## Distance metrics
@@ -24,7 +26,7 @@ Main C++ File :- Source.cpp
 
 1. Weighted
 
-*Feature Selection
+## Feature Selection
 
 1.BackwardFeatureElimination
 
