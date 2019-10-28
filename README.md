@@ -47,3 +47,6 @@ Results_(distancemetricsNo)(WeightNo).txt
 Please cite the below paper if you use this code in your work:
 
 Mukunthan Tharmakulasingam,Cihan Topal,Anil Fernando,and Roberto La Ragione, "Improved Pathogen Recognition using Non-Euclidean Distance Metrics and Weighted kNN”, 8th International Conference on Bioinformatics and Biomedical Science, 2019
+
+For Python code check
+https://github.com/mukunthan/KNNwithDifferentDistanceMetrics
